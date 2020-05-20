@@ -2,4 +2,4 @@
 
 1. git checkout
 2. import the project
-3. Run the spring boot application 
+3. Run the spring boot application. 
